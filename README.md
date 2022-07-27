@@ -1,2 +1,2 @@
 # Calculator Javascript project
- Making a calculator in javascript
+ Making a calculator using javascript
